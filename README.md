@@ -1,6 +1,6 @@
 Clustering multi-wavelength data for Astronomy
 ==========
-**This is an overwiew of how to apply clustering techniques to FITS files containing multi-wavelenght data**
+**This is an overwiew of how to apply clustering techniques to FITS files containing multi-wavelength data**
 
 Contents
 ----------
